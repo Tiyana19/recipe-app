@@ -1,0 +1,1 @@
+ALTER TABLE "favourite" RENAME TO "favourites";
